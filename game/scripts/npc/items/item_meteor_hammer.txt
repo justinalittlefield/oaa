@@ -54,8 +54,8 @@
     //-------------------------------------------------------------------------------------------------------------
     "AbilityCastRange"              "600"
     "AbilitySharedCooldown"         "meteor"
-    "AbilityCooldown"               "40"
-    "AbilityManaCost"               "125"
+    "AbilityCooldown"               "5"
+    "AbilityManaCost"               "5"
 
 
     // Item Info
